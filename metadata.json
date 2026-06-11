@@ -1,0 +1,6 @@
+{
+  "name": "SkullGamer AI PC Builder",
+  "description": "An AI assistant to help you build your ideal high-end PC according to your budget and needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
